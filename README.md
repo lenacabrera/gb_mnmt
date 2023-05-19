@@ -20,10 +20,9 @@ Create virtual environment from [environment.yml](../../environment.yml) by:
 conda env create -f environment.yml
 ```
 
-Clone this repo and switch to the branch `dev`.
+Clone this repo.
 ```
 git clone https://github.com/nlp-dke/NMTGMinor.git
-git checkout dev
 ```
 
 ### Dependency/Requirements
